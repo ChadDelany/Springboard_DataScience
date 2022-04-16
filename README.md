@@ -1,2 +1,2 @@
 # Springboard_DataScience
-Collection of work towards the Data Science certificate at Springboard.
+Collection of work from the Springboard Data Science Bootcamp.
