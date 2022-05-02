@@ -1,2 +1,2 @@
 # Springboard_DataScience
-Collection of work from the Springboard Data Science Bootcamp.
+Collection of work from the 550+ hours, intensive Springboard Data Science certificate program.
